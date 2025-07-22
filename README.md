@@ -34,10 +34,10 @@ I develop projects at the intersection of **blockchain**, **artificial intellige
 ![Polkadot SDK](https://img.shields.io/badge/-Polkadot%20SDK-333?style=flat&logo=polkadot)
 ![EIP-4337](https://img.shields.io/badge/-EIP--4337-333?style=flat&logo=ethereum)
 ![Rust](https://img.shields.io/badge/-Rust-333?style=flat&logo=rust)
+![TON](https://img.shields.io/badge/-FunC%20%28TON%29-333?style=flat&logo=ton)
 ![MPC](https://img.shields.io/badge/-MPC-333?style=flat)
 ![WebAuthn](https://img.shields.io/badge/-WebAuthn-333?style=flat)
 ![dApps](https://img.shields.io/badge/-dApp-333?style=flat)
-
 
 ### AI / ML
 
