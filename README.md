@@ -35,6 +35,7 @@ I develop projects at the intersection of **blockchain**, **artificial intellige
 ![EIP-4337](https://img.shields.io/badge/-EIP--4337-333?style=flat&logo=ethereum)
 ![Rust](https://img.shields.io/badge/-Rust-333?style=flat&logo=rust)
 ![TON](https://img.shields.io/badge/-FunC%20%28TON%29-333?style=flat&logo=ton)
+![TON](https://img.shields.io/badge/-Tolk%20%28TON%29-333?style=flat&logo=ton)
 ![MPC](https://img.shields.io/badge/-MPC-333?style=flat)
 ![WebAuthn](https://img.shields.io/badge/-WebAuthn-333?style=flat)
 ![dApps](https://img.shields.io/badge/-dApp-333?style=flat)
