@@ -3,7 +3,6 @@
 I develop projects at the intersection of **blockchain**, **artificial intelligence**, and have experience with **web interfaces**.
 
 - 🏢 Open to work  
-- 💻 Remote-ready  
 - 🔧 Fullstack engineer with Web3 & AI focus  
 - 🧠 I build tools, pipelines, and protocols from scratch to production  
 
@@ -59,10 +58,7 @@ I develop projects at the intersection of **blockchain**, **artificial intellige
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Express](https://img.shields.io/badge/-Express-333?style=flat)
 ![WebSocket](https://img.shields.io/badge/-WebSocket-333?style=flat)
-![Stripe](https://img.shields.io/badge/-Stripe-333?style=flat&logo=stripe)
 ![Telegram Bot API](https://img.shields.io/badge/-Telegram%20Bot-333?style=flat&logo=telegram)
-![PM2](https://img.shields.io/badge/-PM2-333?style=flat)
-![Bash](https://img.shields.io/badge/-Bash-333?style=flat&logo=gnubash)
 
 
 ### Dev & Automation (supporting tools)
@@ -70,10 +66,7 @@ I develop projects at the intersection of **blockchain**, **artificial intellige
 ![tsconfig](https://img.shields.io/badge/-TSConfig-333?style=flat)
 ![Tailwind Config](https://img.shields.io/badge/-Tailwind%20Config-333?style=flat)
 ![CLI](https://img.shields.io/badge/-CLI%20Tools-333?style=flat)
-![dotenv](https://img.shields.io/badge/-dotenv-333?style=flat)
 ![Markdown](https://img.shields.io/badge/-Markdown-333?style=flat)
-![YAML](https://img.shields.io/badge/-YAML-333?style=flat)
-![JSON](https://img.shields.io/badge/-JSON-333?style=flat)
 
 
 ## Contact
