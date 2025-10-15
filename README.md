@@ -7,13 +7,6 @@ bridging on-chain logic, real-time systems, and clean design.
 - 🔧 Fullstack engineer with **Web3** & **AI** focus  
 - 🧠 I build tools, pipelines, and protocols — from idea to production  
 
-
-## 💻 Favorite Tech Stack
-
-🧠 **Core Specialties:**  
-- Fullstack architecture • Web3 infrastructure • AI-powered automation  
-- UX-first approach • Code generation • Custom pipelines
-
 ### 🕸️ Web3 / Blockchain
 
 ![Substrate](https://img.shields.io/badge/-Substrate-333?style=flat&logo=paritysubstrate)
@@ -74,14 +67,6 @@ bridging on-chain logic, real-time systems, and clean design.
 ![Vite](https://img.shields.io/badge/-Vite-333?style=flat&logo=vite)
 ![CLI](https://img.shields.io/badge/-CLI%20Tools-333?style=flat)
 ![Markdown](https://img.shields.io/badge/-Markdown-333?style=flat)
-
-## 🧩 Development Style
-
-**Minimalist & cinematic UI**
-**Fast prototyping → production**
-**Security-first for Web3 flows**
-**LLM-driven automation**
-**Typed, modular, observable systems**
 
 ## 📬 Contact
 
