@@ -11,7 +11,6 @@ bridging on-chain logic, real-time systems, and clean design.
 
 ![Substrate](https://img.shields.io/badge/-Substrate-333?style=flat&logo=paritysubstrate)
 ![Polkadot SDK](https://img.shields.io/badge/-Polkadot%20SDK-333?style=flat&logo=polkadot)
-![EIP-4337](https://img.shields.io/badge/-EIP--4337-333?style=flat&logo=ethereum)
 ![TON SDK](https://img.shields.io/badge/-TON%20SDK-333?style=flat&logo=ton)
 ![TonConnect UI/SDK](https://img.shields.io/badge/-TonConnect%20UI%2FSDK-333?style=flat&logo=ton)
 ![FunC](https://img.shields.io/badge/-FunC-333?style=flat&logo=ton)
