@@ -13,7 +13,6 @@ bridging on-chain logic, real-time systems, and clean design.
 ![TonConnect UI/SDK](https://img.shields.io/badge/-TonConnect%20UI%2FSDK-333?style=flat&logo=ton)
 ![FunC](https://img.shields.io/badge/-FunC-333?style=flat&logo=ton)
 ![Tolk](https://img.shields.io/badge/-Tolk-333?style=flat&logo=ton)
-![Rust](https://img.shields.io/badge/-Rust-333?style=flat&logo=rust)
 ![MPC](https://img.shields.io/badge/-MPC-333?style=flat)
 ![WebAuthn](https://img.shields.io/badge/-WebAuthn-333?style=flat)
 ![dApps](https://img.shields.io/badge/-dApp-333?style=flat)
