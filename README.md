@@ -1,13 +1,11 @@
 # 🪼 Hi, I'm Alina Akura
 
-I develop projects at the intersection of **blockchain**, **artificial intelligence**, and **web interfaces** —  
+I develop projects at the intersection of **blockchain**, **artificial intelligence**, and **web interfaces** –  
 bridging on-chain logic, real-time systems, and clean design.
+ 
+- Fullstack engineer with **Web3** & **AI** focus  
 
-- 🏢 Open to work  
-- 🔧 Fullstack engineer with **Web3** & **AI** focus  
-- 🧠 I build tools, pipelines, and protocols — from idea to production  
-
-### 🕸️ Web3 / Blockchain
+### Web3 / Blockchain
 
 ![Substrate](https://img.shields.io/badge/-Substrate-333?style=flat&logo=paritysubstrate)
 ![Polkadot SDK](https://img.shields.io/badge/-Polkadot%20SDK-333?style=flat&logo=polkadot)
@@ -20,7 +18,7 @@ bridging on-chain logic, real-time systems, and clean design.
 ![WebAuthn](https://img.shields.io/badge/-WebAuthn-333?style=flat)
 ![dApps](https://img.shields.io/badge/-dApp-333?style=flat)
 
-### 🧠 AI / ML
+### AI / ML
 
 **Reinforcement Learning:**  
 ![Stable-Baselines3](https://img.shields.io/badge/-Stable--Baselines3-333?style=flat)
@@ -31,7 +29,7 @@ bridging on-chain logic, real-time systems, and clean design.
 ![Ollama](https://img.shields.io/badge/-Ollama-333?style=flat)
 ![LLM](https://img.shields.io/badge/-LLM-333?style=flat)
 
-### 🎨 Frontend
+### Frontend
 
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
@@ -44,7 +42,7 @@ bridging on-chain logic, real-time systems, and clean design.
 ![JSX](https://img.shields.io/badge/-JSX-333?style=flat&logo=javascript)
 ![TonConnect UI](https://img.shields.io/badge/-TonConnect%20UI-333?style=flat&logo=ton)
 
-### ⚙️ Backend & Dev Tools
+### Backend & Dev Tools
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-333?style=flat)
@@ -56,7 +54,7 @@ bridging on-chain logic, real-time systems, and clean design.
 ![Telegram Bot API](https://img.shields.io/badge/-Telegram%20Bot%20API-333?style=flat&logo=telegram)
 ![TON SDK](https://img.shields.io/badge/-TON%20SDK-333?style=flat&logo=ton)
 
-### 🧪 Testing / DX
+### Testing / DX
 
 ![Jest](https://img.shields.io/badge/-Jest-333?style=flat&logo=jest)
 ![Supertest](https://img.shields.io/badge/-Supertest-333?style=flat)
@@ -72,5 +70,3 @@ bridging on-chain logic, real-time systems, and clean design.
 - 📨 Email: [akuraav@gmail.com](mailto:akuraav@gmail.com)  
 - 💬 Telegram: [@fraanksy](https://t.me/fraanksy) 
 - 🪩 Open to remote opportunities worldwide  
-
-> _"Building at the edge of AI, Web3, and design systems."_
